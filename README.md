@@ -1,3 +1,4 @@
+NOTE: This has been copied to a [new official repo](https://github.com/grimdork/awsec).
 # awsec
 Store secrets in AWS Parameter Store.
 
